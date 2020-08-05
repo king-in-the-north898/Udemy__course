@@ -1,0 +1,20 @@
+.first{
+color:red;
+background-color: rosybrown;
+}
+
+.second{
+color:blue;
+}
+
+.first img{
+    margin-left:100px;
+    background-color: brown;
+    padding: 20px;
+}
+
+.first a {
+    background-color: royalblue;
+    color:beige;
+    margin-top:100px;
+}
