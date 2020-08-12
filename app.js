@@ -21,7 +21,21 @@ isClosed = true;
 console.log(isChecked && isClosed);
 
 
+// ternar operator
+let num = 50;
+num = 50 ? console.log("fdlf") : console.log("Yaaass");
 
+// cycles
+
+const ass = 12;
+while(ass<15){
+    console.log("ASS WE CAN");
+    ass++;
+}
+
+for(let i = 0; i<ass; i++){
+    console.log("bfnb");
+}
 
 
 
