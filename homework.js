@@ -65,7 +65,7 @@ ShowMyDB();
 
 function AskGener(){
     for(let i = 0; i<3;i++){
-        const geners = +prompt(`Ваш любимый жанр фильма ${i}`);
+        const geners = prompt(`Ваш любимый жанр фильма ${i}`);
         personalMovieDB.geners[i-1] = geners;
     }
 }
